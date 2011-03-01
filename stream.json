@@ -1,0 +1,27 @@
+{
+    "response_code":"OK",
+    "data": {
+[
+      {
+"type":"QUESTION"
+	"id":34,’
+	"author_id":543,
+"author_profile_pic_url":"http://localhost:8080/imgs/icon1.jpg",
+"header": "<header1>",
+"content":"<content1>"
+      },
+      {
+	"type":"<type, specific ex: ANSWER>": 
+"id":<id2>,
+	"author_id":<author_id2>,
+"author_profile_pic_url":"http://localhost:8080/imgs/icon2.jpg",
+"header": "<header2>",
+"content":"<content2>"
+"question": {
+		"id":<id3>,
+"author_id":<author_id3>,
+"author_profile_pic_url":"http://localhost:8080/imgs/icon3.jpg",
+"header": "<header3>",
+"content":"<content3>"
+}
+      },

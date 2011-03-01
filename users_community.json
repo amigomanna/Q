@@ -1,0 +1,95 @@
+{
+	"response_code": "OK", 
+	"data": {
+		"QUESTIONS": [
+			{
+				"user_id": 23, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
+				"placement": 1
+			}, 
+			{
+				"user_id": 432, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
+				"placement": 3
+			}, 
+			{
+				"user_id": 21, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon3.jpg", 
+				"placement": 6
+			}, 
+			{
+				"user_id": 43, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon4.jpg", 
+				"placement": 7
+			}
+		], 
+		"ANSWERS": [
+			{
+				"user_id": 23, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
+				"placement": 1
+			}, 
+			{
+				"user_id": 432, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
+				"placement": 3
+			}, 
+			{
+				"user_id": 21, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon3.jpg", 
+				"placement": 6
+			}, 
+			{
+				"user_id": 43, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon4.jpg", 
+				"placement": 7
+			}
+		], 
+		"RAPIDS": [
+			{
+				"user_id": 23, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
+				"placement": 1
+			}, 
+			{
+				"user_id": 432, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
+				"placement": 3
+			}, 
+			{
+				"user_id": 21, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon3.jpg", 
+				"placement": 6
+			}, 
+			{
+				"user_id": 43, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon4.jpg", 
+				"placement": 7
+			}
+		], 
+		"INVITES": [
+			{
+				"user_id": 23, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
+				"placement": 1
+			}, 
+			{
+				"user_id": 432, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
+				"placement": 3
+			}, 
+			{
+				"user_id": 21, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon3.jpg", 
+				"placement": 6
+			}, 
+			{
+				"user_id": 43, 
+				"profile_pic_url": "http://localhost:8080/imgs/icon4.jpg", 
+				"placement": 7
+			}
+		]
+	}, 
+	"errors": [
+	]
+}

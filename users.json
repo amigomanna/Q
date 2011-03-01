@@ -1,0 +1,53 @@
+{
+	"response_code": "OK", 
+	"data": {
+		"id": 78, 
+		"name": "Rami Levy", 
+		"points": 1678, 
+		"badges": [
+			{
+				"icon_url": "http://localhost:8080/imgs/icon1.jpg", 
+				"achieved": true, 
+				"min_rqrd_items": 5
+			}, 
+			{
+				"icon_url": "http://localhost:8080/imgs/icon2.jpg", 
+				"achieved": true, 
+				"min_rqrd_items": 10
+			}, 
+			{
+				"icon_url": "http://localhost:8080/imgs/icon3.jpg", 
+				"achieved": true, 
+				"min_rqrd_items": 10
+			}, 
+			{
+				"icon_url": "http://localhost:8080/imgs/icon4.jpg", 
+				"achieved": false, 
+				"min_rqrd_items": 10
+			}, 
+			{
+				"icon_url": "http://localhost:8080/imgs/icon5.jpg", 
+				"achieved": false, 
+				"min_rqrd_items": 10
+			}
+		], 
+		"expertise": [
+			{
+				"id": 1, 
+				"label": "headsets"
+			}, 
+			{
+				"id": 2, 
+				"label": "speakers"
+			}
+		], 
+		"factoids": {
+			"QUESTIONS": 123, 
+			"ANSWERS": 345, 
+			"RAPIDS": 94, 
+			"INVITES": 22
+		}
+	}, 
+	"errors": [
+	]
+}
