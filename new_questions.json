@@ -1,7 +1,7 @@
 {
 	"response_code": "OK", 
 	"data": {
-		"streams": [
+		"questions": [
 			{
 				"id": 34, 
 				"author_id": 543, 
