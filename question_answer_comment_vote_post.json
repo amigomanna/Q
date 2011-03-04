@@ -1,8 +1,6 @@
 {
 	"response_code": "OK", 
 	"data": {
-		"id": 4, 
-		"label": "speakers"
 	}, 
 	"errors": [
 	]

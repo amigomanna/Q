@@ -1,0 +1,29 @@
+{
+	"response_code": "OK", 
+	"data": {
+		"search": [
+			{
+				"type": "QUESTION", 
+				"id": 45, 
+				"content": "What's the meaning of life?"
+			}, 
+			{
+				"type": "ANSWER", 
+				"id": 74, 
+				"content": "Life is meant to eat ice cream"
+			}, 
+			{
+				"type": "COMMENT", 
+				"id": 98, 
+				"content": "No one really know the meaing of life"
+			}, 
+			{
+				"type": "ANSWER", 
+				"id": 12, 
+				"content": "Saturdays. The purpose of life is to enjoy saturdays."
+			}
+		]
+	}, 
+	"errors": [
+	]
+}

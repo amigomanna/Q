@@ -8,50 +8,29 @@
 				"author_id": 543, 
 				"author_profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
 				"content": "What is the meaning of life?", 
-				"answers": [
-					{
-						"id": 56, 
-						"most_recent": false, 
-						"author_id": 12, 
-						"author_profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
-						"content": "To eat pancakes.", 
-						"comments": [
-						]
-					}, 
-					{
+				"answer": {
+					"id": 56, 
+					"most_recent": false, 
+					"author_id": 12, 
+					"author_profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
+					"content": "To eat pancakes.", 
+					"comment": {
 						"id": 78, 
 						"most_recent": true, 
 						"author_id": 23, 
 						"author_profile_pic_url": "http://localhost:8080/imgs/icon3.jpg", 
-						"content": "To eat ice cream.", 
-						"comments": [
-							{
-								"id": 45, 
-								"most_recent": true, 
-								"author_id": 78, 
-								"author_profile_pic_url": "http://localhost:8080/imgs/icon4.jpg", 
-								"content": "Yup - strawberry ice cream!"
-							}, 
-							{
-								"id": 98, 
-								"most_recent": false, 
-								"author_id": 65, 
-								"author_profile_pic_url": "http://localhost:8080/imgs/icon5.jpg", 
-								"content": "No way - life is all about vanilla ice cream!"
-							}
-						]
+						"content": "To eat ice cream."
 					}
-				]
+				}
 			}, 
 			{
 				"type": "BADGE", 
 				"user_id": 234, 
 				"user_profile_pic_url": "http://localhost:8080/imgs/icon5.jpg", 
-				"label": "Connector", 
 				"badge_icon_url": "http://localhost:8080/imgs/badge1.jpg"
 			}, 
 			{
-				"type": "EXPERTISE>", 
+				"type": "EXPERTISE", 
 				"user_id": 123, 
 				"user_profile_pic_url": "http://localhost:8080/imgs/icon6.jpg", 
 				"label": "speakers"

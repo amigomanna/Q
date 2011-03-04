@@ -4,12 +4,14 @@
 		"questions": [
 			{
 				"id": 34, 
+				"points": 123, 
 				"author_id": 543, 
 				"author_profile_pic_url": "http://localhost:8080/imgs/icon1.jpg", 
 				"content": "What is the meaning of life?"
 			}, 
 			{
 				"id": 23, 
+				"points": 234,
 				"author_id": 234, 
 				"author_profile_pic_url": "http://localhost:8080/imgs/icon2.jpg", 
 				"content": "What is pi?"
